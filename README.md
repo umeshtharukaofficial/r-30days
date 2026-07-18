@@ -1,2 +1,24 @@
-# r-30days
-30 days, 30 R mini projects → 1 capstone. Learning by building
+# 🧪 R 30-Day Practical Plan
+
+Learning R the hard way: 30 days, 30 mini projects, then one capstone.
+No dry theory — every day I ship something that runs.
+
+## Progress tracker
+
+| Day | Project | Status | Notes |
+|-----|---------|--------|-------|
+| 01  | Personal Bio Calculator | ✅ | Variables, types, if/else, BMI |
+| 02  | Marks Analyzer          | ⬜ | Vectors, mean/median/sd |
+| 03  | Number Guessing Game    | ⬜ | Control flow, readline |
+| ... | ...                     | ⬜ | ... |
+| 30  | Capstone ship day       | ⬜ | Shiny + shinyapps.io |
+
+## Tech stack
+R · RStudio · tidyverse (dplyr, tidyr, ggplot2, stringr, lubridate) · Shiny · R Markdown
+
+## How to run any day
+cd day-01
+Rscript bio_calculator.R
+
+## Follow the journey
+LinkedIn: https://www.linkedin.com/in/umeshtharukaofficial/
