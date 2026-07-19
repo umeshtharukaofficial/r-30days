@@ -11,6 +11,7 @@ No dry theory — every day I ship something that runs.
 | 02  | Marks Analyzer          | ✅ | Vectors, mean/median/sd |
 | 03  | Number Guessing Game    | ✅ | Control flow, readline |
 | 04  | Unit Converter Toolkit  | ✅ | Functions, default arguments, return |
+| 05  | Contact Book            | ✅ | List, data.frame, indexing |
 | ... | ...                     | ⬜ | ... |
 | 30  | Capstone ship day       | ⬜ | Shiny + shinyapps.io |
 
