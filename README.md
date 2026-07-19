@@ -13,6 +13,7 @@ No dry theory — every day I ship something that runs.
 | 04  | Unit Converter Toolkit  | ✅ | Functions, default arguments, return |
 | 05  | Contact Book            | ✅ | List, data.frame, indexing |
 | 06  | CSV Explorer            | ✅ | read.csv, write.csv, summary, tables |
+| 07  | Expense Tracker (CLI)   | ✅ | File persistence, aggregations, order |
 | ... | ...                     | ⬜ | ... |
 | 30  | Capstone ship day       | ⬜ | Shiny + shinyapps.io |
 
