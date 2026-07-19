@@ -8,8 +8,8 @@ No dry theory — every day I ship something that runs.
 | Day | Project | Status | Notes |
 |-----|---------|--------|-------|
 | 01  | Personal Bio Calculator | ✅ | Variables, types, if/else, BMI |
-| 02  | Marks Analyzer          | ⬜ | Vectors, mean/median/sd |
-| 03  | Number Guessing Game    | ⬜ | Control flow, readline |
+| 02  | Marks Analyzer          | ✅ | Vectors, mean/median/sd |
+| 03  | Number Guessing Game    | ✅ | Control flow, readline |
 | ... | ...                     | ⬜ | ... |
 | 30  | Capstone ship day       | ⬜ | Shiny + shinyapps.io |
 
