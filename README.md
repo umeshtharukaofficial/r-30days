@@ -15,6 +15,7 @@ No dry theory — every day I ship something that runs.
 | 06  | CSV Explorer            | ✅ | read.csv, write.csv, summary, tables |
 | 07  | Expense Tracker (CLI)   | ✅ | File persistence, aggregations, order |
 | 08  | Titanic Survival Slicer | ✅ | dplyr, filter, select, mutate, piping |
+| 09  | Sales Report            | ✅ | group_by, summarise, count, across |
 | ... | ...                     | ⬜ | ... |
 | 30  | Capstone ship day       | ⬜ | Shiny + shinyapps.io |
 
