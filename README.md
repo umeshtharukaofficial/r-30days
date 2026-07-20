@@ -21,6 +21,7 @@ No dry theory — every day I ship something that runs.
 | 12  | Tweet Cleaner           | ✅ | str_detect, str_replace_all, regex |
 | 13  | Habit Streak Tracker    | ✅ | lubridate, ymd, floor_date, intervals |
 | 14  | Public Dataset EDA      | ✅ | airquality, drop_na, grouped summaries |
+| 15  | Iris Explorer           | ✅ | ggplot2, scatter, boxplot, ggsave |
 | ... | ...                     | ⬜ | ... |
 | 30  | Capstone ship day       | ⬜ | Shiny + shinyapps.io |
 
