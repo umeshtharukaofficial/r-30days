@@ -17,6 +17,7 @@ No dry theory — every day I ship something that runs.
 | 08  | Titanic Survival Slicer | ✅ | dplyr, filter, select, mutate, piping |
 | 09  | Sales Report            | ✅ | group_by, summarise, count, across |
 | 10  | Students x Courses      | ✅ | inner_join, left_join, anti_join |
+| 11  | Weather Wide to Long    | ✅ | pivot_longer, pivot_wider, separate |
 | ... | ...                     | ⬜ | ... |
 | 30  | Capstone ship day       | ⬜ | Shiny + shinyapps.io |
 
