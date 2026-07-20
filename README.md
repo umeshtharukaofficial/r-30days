@@ -20,6 +20,7 @@ No dry theory — every day I ship something that runs.
 | 11  | Weather Wide to Long    | ✅ | pivot_longer, pivot_wider, separate |
 | 12  | Tweet Cleaner           | ✅ | str_detect, str_replace_all, regex |
 | 13  | Habit Streak Tracker    | ✅ | lubridate, ymd, floor_date, intervals |
+| 14  | Public Dataset EDA      | ✅ | airquality, drop_na, grouped summaries |
 | ... | ...                     | ⬜ | ... |
 | 30  | Capstone ship day       | ⬜ | Shiny + shinyapps.io |
 
