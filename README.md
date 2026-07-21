@@ -26,6 +26,7 @@ No dry theory — every day I ship something that runs.
 | 17  | Stock Price Viewer      | ✅ | zoo, moving averages, annotate |
 | 18  | Plotly Explorer         | ✅ | plotly, ggplotly, htmlwidgets |
 | 19  | Sri Lanka District Map  | ✅ | sf, ggplot2, geom_sf, choropleth |
+| 20  | R Markdown Sales Report | ✅ | Rmd, knitr, html_document, YAML |
 | ... | ...                     | ⬜ | ... |
 | 30  | Capstone ship day       | ⬜ | Shiny + shinyapps.io |
 
