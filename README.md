@@ -23,6 +23,7 @@ No dry theory — every day I ship something that runs.
 | 14  | Public Dataset EDA      | ✅ | airquality, drop_na, grouped summaries |
 | 15  | Iris Explorer           | ✅ | ggplot2, scatter, boxplot, ggsave |
 | 16  | Sales Dashboard Charts  | ✅ | facet_wrap, stacked bar, geom_tile |
+| 17  | Stock Price Viewer      | ✅ | zoo, moving averages, annotate |
 | ... | ...                     | ⬜ | ... |
 | 30  | Capstone ship day       | ⬜ | Shiny + shinyapps.io |
 
