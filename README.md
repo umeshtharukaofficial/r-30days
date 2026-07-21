@@ -22,6 +22,7 @@ No dry theory — every day I ship something that runs.
 | 13  | Habit Streak Tracker    | ✅ | lubridate, ymd, floor_date, intervals |
 | 14  | Public Dataset EDA      | ✅ | airquality, drop_na, grouped summaries |
 | 15  | Iris Explorer           | ✅ | ggplot2, scatter, boxplot, ggsave |
+| 16  | Sales Dashboard Charts  | ✅ | facet_wrap, stacked bar, geom_tile |
 | ... | ...                     | ⬜ | ... |
 | 30  | Capstone ship day       | ⬜ | Shiny + shinyapps.io |
 
